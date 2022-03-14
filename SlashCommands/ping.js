@@ -1,3 +1,5 @@
+//dont know why still have bug damn
+
 const { Client, CommandInteraction } = require("discord.js");
 
 module.exports = {
