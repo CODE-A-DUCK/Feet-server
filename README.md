@@ -3,15 +3,13 @@
 For npm
 `npm install discord.js@13.6.0` discord.js 14 still in dev :)
 
-Handler by reconlx/djs-base-handler
-Link: https://github.com/reconlx/djs-base-handler
+Handler by [reconlx/djs-base-handler]https://github.com/reconlx/djs-base-handler
 
-Assistant by ChinGH#2459
-Link: https://github.com/chinghytb
+Assistant by [ChinGH#2459]https://github.com/chinghytb
 
 Discord server:
-Feet server: https://discord.gg/x9DXZ5TBWS
-My~IT: https://discord.gg/myit 
+[Feet server]https://discord.gg/x9DXZ5TBWS
+[My~IT]https://discord.gg/myit 
 
 My discord: code a duck#4686
 
