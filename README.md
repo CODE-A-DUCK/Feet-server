@@ -1,7 +1,7 @@
 # Feet-Server a s1eep:ng bot
 
 For npm
-`npm install discord.js@16.6.0` discord.js 14 still in dev :)
+`npm install discord.js@13.6.0` discord.js 14 still in dev :)
 
 Handler by reconlx/djs-base-handler
 Link: https://github.com/reconlx/djs-base-handler
