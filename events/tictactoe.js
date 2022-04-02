@@ -1,7 +1,7 @@
 const TicTacToe = require('discord-tictactoe');
 
 new TicTacToe({
-    token: 'OTUxMTE5NDUzMTk2Nzk2MDI0.Yii1BA.Rm2K0_cZ27TY64GwzJOvuncbccQ',
+    token: 'token-here',
     language: 'en',
     command: 'tictactoe',
     commandOptionName: 'opponent',
